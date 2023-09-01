@@ -371,7 +371,7 @@ class AllJobs extends Component {
                 <AiOutlineSearch className="search-icon" />
               </button>
             </div>
-            {this.onRenderJobStatus()}
+            {this.onRenderJobsStatus()}
           </div>
         </div>
       </>
